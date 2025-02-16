@@ -1,0 +1,13 @@
+*.vs*
+/bin/Debug
+/bin
+.vsidx
+/.idea
+*/obj
+*/bin
+/.vs
+*cache*
+*.suo
+*.v2
+*.dll
+
