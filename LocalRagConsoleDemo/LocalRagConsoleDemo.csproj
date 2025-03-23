@@ -13,6 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Data\Contexts\" />
+    <Folder Include="Data\Configuration\" />
+    <Folder Include="Data\Repositories\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
